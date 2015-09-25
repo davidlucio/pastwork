@@ -5,6 +5,10 @@ Projects here are from previous employers. Necessary compontents may not be incl
 
 The files in this repository are NOT for public use, but merely for demonstration of code. If you wish to obtain additional information about these files, please contact me: david.a.lucio@gmail.com
 
+Last change:
+9/24/15 -- Previous repo flushed. New repo being populated.
 
+/** Project 1 -- Paywall **/
+Created for Seattle Times
 
-/** Project 1 -- **/
+/** Project 2 -- **/
