@@ -9,6 +9,8 @@ Last change:
 9/24/15 -- Previous repo flushed. New repo being populated.
 
 /** Project 1 -- Paywall **/
-Created for Seattle Times
+Paymeter / story tracking system created for Seattle Times
 
-/** Project 2 -- **/
+/** Project 2 -- Sock Module **/
+Feedback Module created for dev.windows.com
+
