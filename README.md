@@ -9,7 +9,11 @@ Projects contained here are only for demonstration and examples. The files in th
 
 
 **DM Dashboard**
-The tool isn't completed yet. Next steps are completing the API commands for POST. Phase 2 is adding the Twitch bot and extension portions in.
+
+The tool isn't completed yet. Next steps are completing the API commands for POST. Phase 2 is adding the Twitch bot and extension portions in. *Example can be found here:* 
+http://hardluckhero.com/dmdashboard/?app=charactercreator&id=hardluckhero
+
 
 **Old Projects**
+
 Old, partial code sets from previous jobs.
